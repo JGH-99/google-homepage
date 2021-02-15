@@ -1,28 +1,29 @@
 #pagetop {
     display: flex;
-    height: 50px;
+    height: 25px;
+    flex-direction: row;
 }
 
 #pagetop-about {
     background-color: blue;
-    width: 50%;
-    height: 50%;
+    width: 25%;
+    height: 25%;
 }
 
 #pagetop-store {
     background-color: red;
-    width: 50%;
-    height: 50%;
+    width: 25%;
+    height: 25%;
 }
 
-#pagetop-email {
+#pagetop-gmail {
     background-color: brown;
-    width: 50%;
-    height: 50%;
+    width: 25%;
+    height: 25%;
 }
 
 #pagetop-images {
     background-color: green;
-    width: 50%;
-    height: 50%;
+    width: 25%;
+    height: 25%;
 }
