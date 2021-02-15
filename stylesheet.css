@@ -1,4 +1,5 @@
 #pagetop {
     display: flex;
     background-color: red;
+    width: fit-content;
 }
