@@ -1,7 +1,28 @@
 #pagetop {
     display: flex;
+    height: 50px;
+}
+
+#pagetop-about {
+    background-color: blue;
+    width: 50%;
+    height: 50%;
+}
+
+#pagetop-store {
     background-color: red;
-    width: fit-content;
-    padding: 5px;
-    border: black;
+    width: 50%;
+    height: 50%;
+}
+
+#pagetop-email {
+    background-color: brown;
+    width: 50%;
+    height: 50%;
+}
+
+#pagetop-images {
+    background-color: green;
+    width: 50%;
+    height: 50%;
 }
