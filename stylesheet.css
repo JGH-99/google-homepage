@@ -1,11 +1,11 @@
 #pagetop {
     display: flex;
-    height: 25px;
+    height: 50px;
     flex-direction: row;
 }
 
 #pagetop-about {
-    background-color: blue;
+    background-color: yellow;
     width: 25%;
     height: 25%;
 }
